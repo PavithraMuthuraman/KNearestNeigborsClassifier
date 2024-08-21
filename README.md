@@ -9,8 +9,8 @@
 - **Dataset:** The dataset includes user features such as gender, age, and estimated salary, along with the target variable indicating whether they purchased the product.
 
 **Files Included:**
-- **Social_Network_Ads.csv:** The dataset used for training and testing the KNN model.
-- **KNeighborsClassifier.ipynb:** The Python script that performs data preprocessing, model training, and prediction.
+- `Social_Network_Ads.csv:` The dataset used for training and testing the KNN model.
+- `KNeighborsClassifier.ipynb:` The Python script that performs data preprocessing, model training, and prediction.
 
 **Code Execution:**
 1. **Setup Environment:** Install the required libraries (numpy, pandas, scikit-learn).
